@@ -150,7 +150,7 @@ function Hero() {
            
             <Button 
             id="watch-live"
-            title="Watch Live Now"
+            title="Watch Live Matches"
             leftIcon={<TiLocationArrow />}
             containerClass="bg-yellow-300 flex-center gap-1"
             />
