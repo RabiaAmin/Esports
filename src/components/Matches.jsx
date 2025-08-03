@@ -48,8 +48,8 @@ function Matches() {
         </h1>
         {/* list of upcomming matches  */}
         <div className="flex  justify-center items-center  w-full h-[14vmax] mb-6 ">
-          <div className="relative w-[45%] md:w-[40%]   h-full  ">
-            <div className="absolute right-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(0_0,69%_0,100%_100%,0%_100%)] bg-secondary/70  ">
+          <div className="relative w-[45%] md:w-[40%]   h-full   ">
+            <div className="rounded-xl absolute right-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(0_0,69%_0,100%_100%,0%_100%)] bg-secondary/70  ">
               <div className="absolute bottom-0 left-0 p-2 md:p-4">
                 <h3 className=" font-general font-bold capitalize text-white text-[2vmax]  ">
                   Crimson Vipers
@@ -74,7 +74,7 @@ function Matches() {
             <TiSocialYoutube className="  w-6    h-6  md:w-7  md:h-7   transition-transform duration-300 ease-in-out hover:scale-110 cursor-pointer" />
           </div>
           <div className="relative w-[45%] md:w-[40%] h-full   ">
-            <div className="absolute left-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(31%_0,100%_0,100%_100%,0%_100%)] bg-secondary/70  ">
+            <div className="rounded-xl absolute left-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(31%_0,100%_0,100%_100%,0%_100%)] bg-secondary/70  ">
               <div className="absolute bottom-0 right-0 p-2 md:p-4 ">
                 <h3 className=" font-general font-bold capitalize text-white text-[2vmax]">
                   Night wolves{" "}
@@ -94,7 +94,7 @@ function Matches() {
         {/* 2 */}
         <div className="flex  justify-center items-center  w-full h-[14vmax] mb-6 ">
           <div className="relative w-[45%] md:w-[40%]   h-full  ">
-            <div className="absolute right-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(0_0,69%_0,100%_100%,0%_100%)] bg-secondary/70  ">
+            <div className="rounded-xl absolute right-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(0_0,69%_0,100%_100%,0%_100%)] bg-secondary/70  ">
               <div className="absolute bottom-0 left-0 p-2 md:p-4">
                 <h3 className=" font-general font-bold capitalize text-white text-[2vmax]  ">
                   Crimson Vipers
@@ -119,7 +119,7 @@ function Matches() {
             <TiSocialYoutube className="  w-6    h-6  md:w-7  md:h-7   transition-transform duration-300 ease-in-out hover:scale-110 cursor-pointer" />
           </div>
           <div className="relative w-[45%] md:w-[40%] h-full   ">
-            <div className="absolute left-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(31%_0,100%_0,100%_100%,0%_100%)] bg-secondary/70  ">
+            <div className=" rounded-xl absolute left-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(31%_0,100%_0,100%_100%,0%_100%)] bg-secondary/70  ">
               <div className="absolute bottom-0 right-0 p-2 md:p-4 ">
                 <h3 className=" font-general font-bold capitalize text-white text-[2vmax]">
                   Night wolves{" "}
@@ -139,7 +139,7 @@ function Matches() {
         {/* 3 */}
         <div className="flex  justify-center items-center  w-full h-[14vmax] mb-6 ">
           <div className="relative w-[45%] md:w-[40%]   h-full  ">
-            <div className="absolute right-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(0_0,69%_0,100%_100%,0%_100%)] bg-secondary/70  ">
+            <div className="rounded-xl absolute right-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(0_0,69%_0,100%_100%,0%_100%)] bg-secondary/70  ">
               <div className="absolute bottom-0 left-0 p-2 md:p-4">
                 <h3 className=" font-general font-bold capitalize text-white text-[2vmax]  ">
                   Crimson Vipers
@@ -165,7 +165,7 @@ function Matches() {
             <TiSocialYoutube className="  w-6    h-6  md:w-7  md:h-7   transition-transform duration-300 ease-in-out hover:scale-110 cursor-pointer" />
           </div>
           <div className="relative w-[45%] md:w-[40%] h-full   ">
-            <div className="absolute left-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(31%_0,100%_0,100%_100%,0%_100%)] bg-secondary/70  ">
+            <div className="rounded-xl absolute left-0 bottom-0 z-20  h-[70%] w-full [clip-path:polygon(31%_0,100%_0,100%_100%,0%_100%)] bg-secondary/70  ">
               <div className="absolute bottom-0 right-0 p-2 md:p-4 ">
                 <h3 className=" font-general font-bold capitalize text-white text-[2vmax]">
                   Night wolves{" "}

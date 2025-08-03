@@ -27,13 +27,13 @@ function NavBar() {
           {/* Dropdown List */}
           <div className="absolute top-full left-0 py-10 hidden group-hover:flex flex-col bg-black/80 shadow-md rounded-md z-50 min-w-[200px] text-white">
            {
-            tournaments.map(tournament => (
+            Games.map(game => (
               <a
-                key={tournament.id}
-                href={`#tournament${tournament.id}`}
+                key={game.id}
+                href={`#tournament${game.id}`}
                 className="px-4 py-2 hover:bg-primary/20 transition"
               >
-                {tournament.name} - {new Date(tournament.date).toLocaleDateString()}
+                {game.name}
               </a>
             ))
            }
